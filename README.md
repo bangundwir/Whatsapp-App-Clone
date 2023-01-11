@@ -1,8 +1,7 @@
-# Google Keep Desktop App
+# Whatsapp-App Desktop App
 
-\[Unaffiliated] Google Keep as a desktop app using Tauri
-![image](https://user-images.githubusercontent.com/17474376/211309982-70084602-8516-44ed-9323-adf614fbaab5.png)
-
+\[Unaffiliated]  Whatsapp-App as a desktop app using Tauri
+![image](https://user-images.githubusercontent.com/17474376/211812541-07ec7f32-207c-4c01-a619-3463b3f8b552.png)
 ## How to run
 
 ```sh
